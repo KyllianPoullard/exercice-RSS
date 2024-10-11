@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+
+<channel>
+
+  <item>
+
+    <title>concours de programmation</title>
+
+    <link>http://localhost/exercice-rss/article1.html</link>
+    
+    <description>Un concours de programmation est organiser pour les éleves de SIO.</description>
+
+  </item>
+
+  <item>
+
+    <title>Attention Virus !</title>
+
+    <link>http://localhost/exercice-rss/article2.html</link>
+
+    <description>Un nouveau virus affecte les ordinateur et s'attaque au language python !</description>
+
+  </item>
+
+  <item>
+
+    <title>Le mistère du voleur de souris</title>
+
+    <link>http://localhost/exercice-rss/article3.html</link>
+    
+    <description>Récit d'un prof qui voyant les souris de sa salle disparaitre.</description>
+
+  </item>
+
+</channel>
+
+</rss>
